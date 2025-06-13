@@ -23,6 +23,7 @@ boo=cse(r)
 boo.mech()
 ```
 ## Output
+
 ![4 1](https://github.com/user-attachments/assets/a0614c3c-1123-4a92-bae8-d34ed535f11b)
 
 ## Result
